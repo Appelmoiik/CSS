@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.TheFirst{
+    background-color: #66bfbf;
+    height: 350px;
+    text-align: center;
+    padding: 70px;
+}
+
+h1{
+    font-size: 80px;
+    color: white;
+    font-style: italic;
+}
+
+.flex-container{
+    margin: 100px 0;
+    display: flex;
+    }
+    
+    .right-content{
+        padding-left: 250px;
+        line-height: 30px;
+        
+    }
+
+    .left-content{
+        padding-left: 50px;
+    }
+    h2{
+        color: white;
+        font-size: 30px;
+    }
+
+    .TheSecond{
+        height: 650px;
+        background-color: white;
+        text-align: center;
+        padding: 30px;
+        line-height: 40px;
+    }
+
+    h3{
+        color: #66bfbf;
+        font-size: 30px;
+    }
+    h4{
+        color: #66bfbf;
+        font-size: 20px;
+    }
+    .TheThird{
+        
+        background-color:#add8e6;
+        text-align: center;
+        padding: 50px;
+        line-height: 35px;
+    }
+    ul{
+        list-style-type: none;
+    }
+
+    .TheFourth{
+        background-color: white;
+        text-align: center;
+        padding: 35px;
+        line-height: 50px;
+    }
+
+    .flexcontain{
+        display: flex;
+        
+    }
+    .right-half{
+        width: 50%;
+    }
+    .left-half{
+        width: 50%;
+    }
+    button{
+        color: white;
+        padding: 10px;
+        background-color: #66bfbf;
+        margin: 10px;
+        border-radius: 5px;
+        border: none;
+    }
+
+    .TheFifth{
+        background-color: #66bfbf;
+        text-align: center;
+        line-height: 30px;
+        height: 50px;
+        padding: 30px;
+
+
+    }
+
